@@ -1,7 +1,7 @@
 <br>
 <h1 align="center"><b>Oi, eu sou o Cadu</b></h1>
  <br>
- 👽 Sobre mim:
+ <h3>👽 Sobre mim:</h3>
 <blockquote>
     
     - 22 anos;
@@ -14,6 +14,7 @@
 </blockquote>
 
 <section>
+ <h3>Principais linguagens:</h3>
   <img align="left" alt="Cadu-Java"  height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
    <img align="left" alt="Cadu-Spring"  height ="42px" src="https://img.icons8.com/?size=96&id=90519&format=png"/>
    <img align="left" alt="Cadu-Angular"  height ="42px" src="https://img.icons8.com/?size=96&id=l9a5tcSnBwcf&format=png"/>
@@ -21,13 +22,13 @@
 </section>
 <br>
 <br>
- <section>
+<br>
+ <section align="center">
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=CaduOly&show_icons=true&theme=radical" width="50%">
-   <img align="top "src="https://github.com/CaduOly/CaduOly/blob/main/Cadu.png" width="30%">
-<br>
-<br>
+   <img align="center" src="https://github.com/CaduOly/CaduOly/blob/main/Cadu.png" width="30%">
  </section>
-
+<br>
+<br>
 <blockquote align="center">
     "A programação não é apenas uma habilidade técnica. É uma forma de pensar e resolver problemas." - <em>[Jobs, Steve]</em>
 </blockquote>
