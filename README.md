@@ -14,7 +14,7 @@
 </blockquote>
 
 <section>
- <h3>Principais linguagens:</h3>
+ <h3>Principal Stack:</h3>
   <img align="left" alt="Cadu-Java"  height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
    <img align="left" alt="Cadu-Spring"  height ="42px" src="https://img.icons8.com/?size=96&id=90519&format=png"/>
    <img align="left" alt="Cadu-Angular"  height ="42px" src="https://img.icons8.com/?size=96&id=l9a5tcSnBwcf&format=png"/>
@@ -23,9 +23,9 @@
 <br>
 <br>
 <br>
- <section align="center">
+ <section align="center" justify="center">
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=CaduOly&show_icons=true&theme=radical" width="50%">
-   <img align="center" src="https://github.com/CaduOly/CaduOly/blob/main/Cadu.png" width="30%">
+   <img align="center"  src="https://github.com/CaduOly/CaduOly/blob/main/Cadu.png" width="32%">
  </section>
 <br>
 <br>
