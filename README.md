@@ -24,7 +24,7 @@
 <br>
 <br>
  <section align="center" justify="center">
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=CaduOly&show_icons=true&theme=radical" width="50%">
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaduOly&layout=compact&theme=radical" width="50%">
    <img align="center"  src="https://github.com/CaduOly/CaduOly/blob/main/Cadu.png" width="32%">
  </section>
 <br>
