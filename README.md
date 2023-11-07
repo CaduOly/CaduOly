@@ -18,6 +18,7 @@
   <img align="left" alt="Cadu-Java"  height ="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
    <img align="left" alt="Cadu-Spring"  height ="42px" src="https://img.icons8.com/?size=96&id=90519&format=png"/>
    <img align="left" alt="Cadu-Angular"  height ="42px" src="https://img.icons8.com/?size=96&id=l9a5tcSnBwcf&format=png"/>
+  <img align="left" alt="Cadu-React"  height ="42px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-react-a-javascript-library-for-building-user-interfaces-logo-shadow-tal-revivo.png" />
    <img align="left" alt="Cadu-Ts"  height ="42px" src="https://img.icons8.com/?size=96&id=uJM6fQYqDaZK&format=png"/> 
 </section>
 <br>
