@@ -9,7 +9,7 @@
     - Atualmente focado em React;
     - 👨🏾‍💻Desenvolvedor Fullstack;
     - Contribuindo agora com GitHub;
-    - ⚽ No meu tempo Livre curto ouvir podcast, assistir filmes ou series, videos no youtube sobre curiosidades, ciência e humor;
+    - ⚽ No meu tempo Livre curto ouvir podcast, ver filmes/series, videos no youtube sobre curiosidades, ciência e humor;
     - 👴calvo..
 </blockquote>
 
