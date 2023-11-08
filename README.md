@@ -6,7 +6,7 @@
     
     - 22 anos;
     - 🤯 Focado nos estudos;
-    - Revisando Java e ANGULAR;
+    - Atualmente focado em React;
     - 👨🏾‍💻Desenvolvedor Fullstack;
     - Contribuindo agora com GitHub;
     - 👴calvo..
