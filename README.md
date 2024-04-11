@@ -5,10 +5,8 @@
 <blockquote>
     
     - 22 anos;
-    - 🤯 Focado nos estudos;
-    - Atualmente focado em React;
     - 👨🏾‍💻Desenvolvedor Fullstack;
-    - Contribuindo agora com GitHub;
+    - 🥷Desenvolvedor no KaBuM!;
     - ⚽ No meu tempo Livre curto ouvir podcast, ver filmes/series, videos no youtube sobre curiosidades, ciência e humor;
     - 👴calvo..
 </blockquote>
