@@ -4,9 +4,8 @@
  <h3>👽 Sobre mim:</h3>
 <blockquote>
     
-    - 22 anos;
-    - 👨🏾‍💻Desenvolvedor Fullstack;
-    - 🥷Desenvolvedor no KaBuM!;
+    - 23 anos;
+    - 🥷 Atualmente desenvolvedor no KaBuM!;
     - ⚽ No meu tempo Livre curto ouvir podcast, ver filmes/series, videos no youtube sobre curiosidades, ciência e humor;
     - 👴calvo..
 </blockquote>
