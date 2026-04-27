@@ -4,7 +4,7 @@
  <h3>👽 Sobre mim:</h3>
 <blockquote>
     
-    - 23 anos;
+    - 24 anos;
     - 🥷 Atualmente desenvolvedor no KaBuM!;
     - ⚽ No meu tempo Livre curto ouvir podcast, ver filmes/series, videos no youtube sobre curiosidades, ciência e humor;
     - 👴calvo..
