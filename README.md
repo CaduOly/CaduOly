@@ -73,8 +73,7 @@
 ## GitHub em números
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CaduOly&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Estatísticas do GitHub de CaduOly">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaduOly&layout=compact&hide_border=true&theme=transparent" alt="Linguagens mais usadas por CaduOly">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaduOly&theme=github_dark" alt="Resumo do perfil GitHub de CaduOly">
 </p>
 
 <p align="center">
