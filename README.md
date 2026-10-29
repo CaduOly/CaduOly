@@ -76,10 +76,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaduOly&theme=github_dark" alt="Resumo do perfil GitHub de CaduOly">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaduOly&hide_border=true&theme=transparent" alt="Sequência de contribuições de CaduOly">
-</p>
-
 ## Formação
 
 - Ciência da Computação, cursando o 7º semestre
