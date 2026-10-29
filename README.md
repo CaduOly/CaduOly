@@ -22,8 +22,8 @@
   <tr>
     <td width="50%" valign="top">
       <h2>Sobre mim</h2>
-      <p>Desenvolvedor Backend no KaBuM!, com 5 anos de experiência profissional na construção e evolução de sistemas para um grande e-commerce de tecnologia do Brasil.</p>
-      <p>Atualmente, trabalho com integrações de pagamento, Pix e soluções de transação com cartão, buscando mais transparência para o cliente e melhores resultados para o negócio.</p>
+      <p>Atuo como Desenvolvedor Backend no KaBuM!, com 5 anos de experiência na construção e evolução de sistemas para e-commerce.</p>
+      <p>Minha experiência está concentrada no domínio de pagamentos, com integrações de gateways, Pix e transações com cartão.</p>
       <p>Estou cursando o 7º semestre de Ciência da Computação e tenho interesse em oportunidades remotas.</p>
     </td>
     <td width="50%" valign="top">
