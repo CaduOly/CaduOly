@@ -1,7 +1,7 @@
 <h1 align="center">Oi, eu sou o Cadu</h1>
 
 <p align="center">
-  Desenvolvedor Backend focado em Node.js, TypeScript e soluções de pagamento
+  Desenvolvedor Backend focado em criar soluções simples, úteis e escaláveis
 </p>
 
 <p align="center">
@@ -30,11 +30,11 @@
       <h2>Foco profissional</h2>
       <p>
         <img src="https://img.shields.io/badge/Backend-1F6FEB?style=flat-square" alt="Backend">
-        <img src="https://img.shields.io/badge/Payments-0E8A6A?style=flat-square" alt="Payments">
-        <img src="https://img.shields.io/badge/E--commerce-F0883E?style=flat-square" alt="E-commerce">
+        <img src="https://img.shields.io/badge/Arquitetura-0E8A6A?style=flat-square" alt="Arquitetura">
+        <img src="https://img.shields.io/badge/Impacto-F0883E?style=flat-square" alt="Impacto">
       </p>
       <ul>
-        <li>APIs e integrações de pagamento</li>
+        <li>APIs e integrações</li>
         <li>Arquitetura limpa e código sustentável</li>
         <li>Observabilidade e confiabilidade</li>
         <li>Soluções que facilitam a vida das pessoas</li>
@@ -57,7 +57,7 @@
   <tr><td><strong>Em evolução</strong></td><td>Kotlin, Python e novas práticas de engenharia</td></tr>
 </table>
 
-## Experiência em destaque
+## Experiência atual
 
 <p>Atuação no domínio financeiro de um grande e-commerce de tecnologia, com experiência em:</p>
 
@@ -87,5 +87,5 @@
 - Inglês técnico
 
 <p align="center">
-  <a href="mailto:cadu.oly404@gmail.com">Vamos conversar sobre backend, pagamentos e engenharia de software.</a>
+  <a href="mailto:cadu.oly404@gmail.com">Vamos conversar sobre backend, tecnologia e engenharia de software.</a>
 </p>
